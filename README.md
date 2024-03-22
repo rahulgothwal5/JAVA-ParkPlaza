@@ -34,7 +34,7 @@ Explore the ParkPlaza APIs using the Postman collection provided below:
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/ParkPlaza.git`
+1. Clone the repository: `git clone https://github.com/rahulgothwal5/JAVA-ParkPlaza.git`
 2. Navigate to the project directory: `cd ParkPlaza`
 3. Build the project: `mvn clean install`
 4. Run the application: `java -jar target/ParkPlaza-0.0.1-SNAPSHOT.jar`
